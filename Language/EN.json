@@ -1,11 +1,11 @@
 {
-    "LANGUAGE": "Sinhala",
-    "LANGCODE": "SI",
+    "LANGUAGE": "English",
+    "LANGCODE": "EN",
     "AUTHOR": "Neptune",
   
     "STRINGS": {
         "main": {
-          "VER": "V 8.0.0"
+          "VER": "V 8.0.0",
           "NOT_OWNER": "💭 *Only bot owner can use this feature !*",
           "NOT_GC": "💭 *This feature can only be used in groups !*",
           "NOT_PC": "💭 *This feature can only be used in personal chats !*",
